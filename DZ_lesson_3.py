@@ -16,7 +16,7 @@
 
 #####################
 
-# my_list = [7]
+# my_list = [7, 15]
 # if len(my_list) < 2:
 #     my_list.append(0)
 # else:
